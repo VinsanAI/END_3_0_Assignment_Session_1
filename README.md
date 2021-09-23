@@ -26,6 +26,7 @@ Assignment for Session 1 - Background & Very Basics (END3.0)
 
 **5)	What is the "chain rule" in gradient flow?**
 - Chain Rule is something which enables the backpropagation to happen effectivity by considering the contribution from the other neurons. 
+
 ![s3](https://user-images.githubusercontent.com/56379895/134590501-30e98785-07cc-4362-a312-e13b003e5202.jpg)
 
   
