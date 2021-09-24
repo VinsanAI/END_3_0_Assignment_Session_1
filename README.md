@@ -2,6 +2,12 @@
 # END_3_0_Assignment_Session_1
 
 Assignment for Session 1 - Background & Very Basics (END3.0)
+**Team Members :**
+1) Santosh B H M - sbhm84@gmail.com
+2) Ashutosh Kumar - ashutoshindian.ashu@gmail.com
+3) Rajesh Kumar Birada - rajesh.bcool@gmail.com
+4) Sateesh Ontikommu - 
+
 
 ## 1)	What is a neural network neuron?
 > It’s a building block of a neural network which stores a value temporarily. It can contain input value or processed non-linear data(Activated value).
