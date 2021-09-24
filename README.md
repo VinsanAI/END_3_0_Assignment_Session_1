@@ -6,7 +6,7 @@ Assignment for Session 1 - Background & Very Basics (END3.0)
 1) Santosh B H M - sbhm84@gmail.com
 2) Ashutosh Kumar - ashutoshindian.ashu@gmail.com
 3) Rajesh Kumar Birada - rajesh.bcool@gmail.com
-4) Sateesh Ontikommu - 
+4) Sateesh Ontikommu - sateesh.someswara@gmail.com
 
 
 ## 1)	What is a neural network neuron?
