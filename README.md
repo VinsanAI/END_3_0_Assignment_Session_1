@@ -18,7 +18,7 @@ Assignment for Session 1 - Background & Very Basics (END3.0)
 
 
 ## 3)	How are weights initialized?
-> Generally weights are initialized randomly between 0 & 1 Because initializing all the weights to same value or to 0.0 will result in some kind of asymmetry in the error gradient which will begin searching in effectively. And mostly the weights are normalized to be under one scale and mostly be nearest to zero because this will make sure that the feedback from backpropagation will make sense for all the values computed in the hidden layers while computing gradients.
+> Generally weights are initialized randomly between 0 & 1 Because initializing all the weights to same value or to 0.0 will result in some kind of asymmetry in the error gradient which will begin searching ineffectively. And mostly the weights are normalized to be under one scale and mostly be nearest to zero because this will make sure that the feedback from backpropagation will make sense for all the values computed in the hidden layers while computing gradients.
 
 
 ## 4)	What is "loss" in a neural network?
